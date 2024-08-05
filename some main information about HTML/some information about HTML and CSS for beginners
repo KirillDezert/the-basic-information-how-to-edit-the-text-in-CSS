@@ -1,0 +1,6 @@
+So here I would like explain to you how to use different attributies in CSS and also in HTML, and first our attribute "font-weight",
+font-weight using in order to do our text more fat and also upside down more skinny or mark this text like importent with help "font-weight: bold;", but also in order to mark the HTML text on our page like
+important we can use also "<em>" and that looks like this:"<p10 class="Beauty"><em> about beautiful places in Switzerland</em></p10>" and like this I marked this part of my HTML text like important part,
+what about classes, in that example which I already wrote, already there is class and his name and with help this name I can start to edit this part of my text and we can edit this part whatever with help "style"
+right in HTML document or we can do that in CSS document only for this we should relate our HTML file with file CSS and this looks like this ""<link rel="stylesheet" href="style.css">"
+and after this we can edit our elements in CSS
